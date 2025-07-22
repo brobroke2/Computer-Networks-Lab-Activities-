@@ -44,7 +44,8 @@ PC1:
 
    5. Test the Connection
 
-#Screenshots 
+# Screenshots 
+
 <img width="390" height="230" alt="Screenshot 2025-07-22 090628" src="https://github.com/user-attachments/assets/88c564c4-fa52-4e07-bc83-eb71de101ce0" />
 
 <img width="469" height="622" alt="Screenshot 2025-07-22 090725" src="https://github.com/user-attachments/assets/3ace5994-8845-4581-8e06-1797af4788c3" />
