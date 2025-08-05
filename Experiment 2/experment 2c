@@ -1,0 +1,67 @@
+# Experiment 2C: Demonstration of Network Topologies
+
+## 🎯 Objective
+To implement various network topologies using Packet Tracer, including Ring, Bus, Mesh, Star, and Hybrid topologies.
+
+---
+
+## 🧰 Common Components Required
+
+- Multiple PCs
+- Multiple Switches
+- Copper Straight-through Cables
+
+---
+
+## 🧪 Topology Implementations
+
+### 🔁 Ring Topology
+
+- Connect PCs and switches in a circular manner.
+- Assign IP addresses sequentially.
+- Test connectivity by pinging neighbors.
+
+📸 _Insert screenshot here_
+
+---
+
+### 📏 Bus Topology
+
+- All devices connected to a single communication line.
+- Use straight-through cables and appropriate IP configurations.
+
+📸 _Insert screenshot here_
+
+---
+
+### 🔀 Mesh Topology
+
+- Each PC is connected to every other PC.
+- Useful for fault tolerance.
+- Assign static IPs and test connections.
+
+
+
+---
+
+### ⭐ Star Topology
+
+- All PCs connect to a central switch.
+- Simple to manage and scalable.
+
+
+
+---
+
+### 🔄 Hybrid Topology
+
+- Combination of multiple topologies above.
+- Flexibly built depending on requirement.
+
+
+
+---
+
+## ✅ Result
+
+Successfully demonstrated the implementation of various network topologies using Packet Tracer.
